@@ -1,94 +1,33 @@
 /*
-	Forty by HTML5 UP
+	Aerial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Spotlights */
+/* Wrapper */
 
-	.spotlights > section:after {
-		content: '';
-		display: block;
-		clear: both;
+	#wrapper {
+		opacity: 1;
 	}
 
-	.spotlights > section > .image {
-		float: left;
-	}
+/* Overlay */
 
-	.spotlights > section > .content {
-		float: left;
-	}
-
-/* Tiles */
-
-	.tiles:after {
-		content: '';
-		display: block;
-		clear: both;
-	}
-
-	.tiles article {
-		padding: 8em 4em 6em 4em ;
-		float: left;
-		height: auto;
-		max-height: none;
-		min-height: 0;
+	#overlay {
+		opacity: 1;
 	}
 
 /* Header */
 
-	#header .logo {
-		position: absolute;
-		top: 0;
-		left: 0;
+	#header {
+		opacity: 1;
 	}
 
-	#header nav {
-		position: absolute;
-		top: 0;
-		right: 0;
-	}
-
-/* Banner */
-
-	#banner {
-		padding: 7em 0 4em 0 ;
-		background-attachment: scroll;
-		height: auto;
-		max-height: none;
-		min-height: 0;
-	}
-
-		#banner > .inner .content {
-			display: block;
+		#header nav li {
+			opacity: 1;
 		}
 
-			#banner > .inner .content > * {
-				margin-left: 0;
-				margin: 0 0 2em 0;
-			}
+/* Footer */
 
-		#banner.major {
-			height: auto;
-			max-height: none;
-			min-height: 0;
-		}
-
-/* Contact */
-
-	#contact:after {
-		content: '';
-		display: block;
-		clear: both;
-	}
-
-	#contact > .inner > * {
-		float: left;
-	}
-
-/* Menu */
-
-	#menu .inner {
-		margin: 0 auto;
+	#footer {
+		background-image: url("images/ie/footer.svg");
 	}

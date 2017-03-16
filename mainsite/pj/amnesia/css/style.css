@@ -1,0 +1,15 @@
+button {
+  background-color: #808080;
+  /* Green */
+  border: none;
+  color: orange;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+body {
+ background-image:url("http://wallpapercave.com/wp/eNbfNR1.jpg");
+background-size:cover;
+  color:red;

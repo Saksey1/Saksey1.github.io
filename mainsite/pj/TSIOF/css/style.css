@@ -1,0 +1,19 @@
+   
+.title h{
+  font-size: 800%  
+}
+
+button{
+    background-color: #34A99A;
+    border: none;
+    color: black;
+  padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 112px;
+  }
+  body {
+background-image:url("http://orig02.deviantart.net/49bf/f/2011/233/2/9/8bit_beach_by_supermanosbros-d47c8x7.png");
+background-size:cover;
+}

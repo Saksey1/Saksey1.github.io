@@ -1,0 +1,13 @@
+body{
+  background-image:url("http://static.tumblr.com/89d5402501575ed23e0cc8b1c77427d2/ek42b6b/n5uoct85c/tumblr_static_8psmimsr9d44c4kgo4400sg00.jpg");
+}
+button {
+    background-color: #808080; /* Green */
+    border: none;
+    color: orange;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
